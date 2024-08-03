@@ -392,10 +392,11 @@ nav h2 {
     left: -4px;
 }
 #fifth img {
-    width: 1546.93px;
+    width: 1440px;
     height: 938px;
     position: absolute;
-    left: -3.08%;
+    left: 0px;
+    /* left: -3.08%; */
     right: -33.79%;
     top: 0.0%;
     bottom: 1.78%;
