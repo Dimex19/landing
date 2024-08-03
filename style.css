@@ -483,6 +483,7 @@ nav h2 {
 }
 #footer {
     position: relative;
+    width: 1440px;
     top: 474.61px;
     height: 216px;
     background-color: #E7ECFF;
